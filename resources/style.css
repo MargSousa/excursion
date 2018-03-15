@@ -1,0 +1,37 @@
+html {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#Download {
+  text-align: center;
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+#Excursion {
+  text-align: center;
+  color: Gray;
+  font-size: 21px;
+}
+
+#Footer {
+  text-align: right;
+  color: Gray;
+  color: Gray;
+  font-size: 21px;
+}
